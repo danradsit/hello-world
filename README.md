@@ -1,4 +1,4 @@
 # hello-world
-# for storing ideas
+for storing ideas
 
 This is Daniel Adsit's github page.
